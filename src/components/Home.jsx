@@ -29,6 +29,11 @@ const Home = () => {
                     <li className="list-item">Die Seite erklärt meine Begeisterrung zur Programmierung</li>
                     <li className="list-item">Die Seite geht näher auf meine bissher umgesetzen Projekte ein</li>
                 </ul>
+                <br/>
+                <li>GitHub</li>
+                    <ul className='list-disc ml-4'>
+                        <li><a href="https://github.com/WastKurrle/cv" className='underline'>Code der Seite</a></li>
+                    </ul>
             </ol>
         </div>
     </div>
